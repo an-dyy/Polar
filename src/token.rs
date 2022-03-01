@@ -1,4 +1,4 @@
-//! POLAR Tokens.
+//! Polar TOKENS.
 //! This file implements tokens.
 
 use std::fmt;
